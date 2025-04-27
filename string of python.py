@@ -1,4 +1,4 @@
-"""# string is defen
+# string is defen
 str1 = "hassan is good student."
 print(str1)
 len1 = len(str1)  # first string langht
@@ -60,7 +60,7 @@ str11 = input("enter your string")
 print(len(str11))
 # 2nd qustion
 str12 = "the $ of the $ is $"
-print(str12.count("$"))"""
+print(str12.count("$"))
 
 
 def to_check():
